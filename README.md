@@ -23,4 +23,4 @@ For GRaphical User Interface:
 * It will show near by router and nearby devices in tabular form and in every row there is a button. If you click on that button it will disconnect that device using aireplay-ng tool.
 * You can again click on start scan button for rescanning near by router and devices.
 
-##Note: This is only for education purpose if you misuse then you are responsible for any cause.
+## Note: This is only for education purpose if you misuse then you are responsible for any cause.
